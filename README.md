@@ -77,5 +77,5 @@ server.js Checks the bad methods and bad routes
 
 ![](https://user-images.githubusercontent.com/78326110/118696388-ebcffd80-b816-11eb-87de-5903d1be6d9d.jpg)
 )
-## [Show in Mero](https://miro.com/welcomeonboard/ctOC5kcTVU7NAjMfPBZW4F6dqX98Iy8MpXdvcvWK0Kyi0ZCunircdbmtBJ4va9rZ
+## [Show in Mero](https://miro.com/welcomeonboard/ctOC5kcTVU7NAjMfPBZW4F6dqX98Iy8MpXdvcvWK0Kyi0ZCunircdbmtBJ4va9rZ)
 
