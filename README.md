@@ -6,7 +6,7 @@
 Build a REST API using Express, by creating a proper series of endpoints that perform CRUD operations on a database, using the REST standard
 
 
-## End Points: 
+## Routes: 
 1. /api/v1/food
 2. /api/v1/clothes
 
