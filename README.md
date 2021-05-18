@@ -10,6 +10,8 @@ Build a REST API using Express, by creating a proper series of endpoints that pe
 1. /api/v1/food
 2. /api/v1/clothes
 
+***
+
 ## Methods:
 GET / Get All Records  
 POST / Add a Record and generate an ID and attach it to the object
@@ -17,6 +19,7 @@ POST / Add a Record and generate an ID and attach it to the object
 PUT / Update A Record which has the id matching that which is in the path /food/1
 DELETE / Delete A Record which has the id matching that which is in the path /food/1
 
+***
 
 ## structure
 
@@ -44,6 +47,8 @@ DELETE / Delete A Record which has the id matching that which is in the path /fo
 └── package.json
 ```
 
+
+
 ## Implementation Notes
 
 Created 2 in-memory data models using ES6 Classes, and exported as Node Modules.
@@ -54,6 +59,7 @@ read() ,
 update() ,
 delete()
 
+***
 
 ## Testing:
 
@@ -68,14 +74,16 @@ server.js Checks the bad methods and bad routes
 
 ## [Pull request](https://github.com/wafaankoush99/basic-api-server/pull/1)
 
-
+***
 
 ## Dependencies 
 (express, dotenv, supertest, jest, uuid, cors, morgan )
 
+***
+
 ## UML
 
 ![](https://user-images.githubusercontent.com/78326110/118696388-ebcffd80-b816-11eb-87de-5903d1be6d9d.jpg)
-)
+
 ## [Show in Mero](https://miro.com/welcomeonboard/ctOC5kcTVU7NAjMfPBZW4F6dqX98Iy8MpXdvcvWK0Kyi0ZCunircdbmtBJ4va9rZ)
 
