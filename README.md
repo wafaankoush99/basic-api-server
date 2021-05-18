@@ -69,7 +69,11 @@ server.js Checks the bad methods and bad routes
 
 
 ![server](https://user-images.githubusercontent.com/78326110/118700867-c5609100-b81b-11eb-93c3-fdd4fd59327c.png)
+
+
 ![logger](https://user-images.githubusercontent.com/78326110/118700882-c98cae80-b81b-11eb-92bc-b69eca7524b1.png)
+
+
 ![table](https://user-images.githubusercontent.com/78326110/118700927-d4dfda00-b81b-11eb-94e0-644b64c6a480.png)
 
 ## [Actions](https://github.com/wafaankoush99/basic-api-server/actions)
